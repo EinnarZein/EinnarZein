@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn about programming and software
 - 🌱 I’m currently learning programming in js and english
 - 💞️ I'm just a tennager who want to start in this world 
-- 📫 How to reach me just be kindly
+- 📫 How to reach me, just be kindly
 
 <!---
 EinnarZein/EinnarZein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
